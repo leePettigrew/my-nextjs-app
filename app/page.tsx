@@ -3,15 +3,7 @@ import Image from 'next/image';
 import Link from 'next/link'; // Import Link from Next.js for internal links
 
 export default function Home() {
-  // Placeholder function for fetching commits, if you decide to use GitHub's API for dynamic content.
-  // You would need to call this function on component mount (e.g., using useEffect) and set the commits in your state.
-  /*
-  const fetchCommits = async () => {
-    const response = await fetch('https://api.github.com/repos/username/repo/commits');
-    const data = await response.json();
-    // Update your state with this data
-  };
-  */
+
 
   return (
     <>
