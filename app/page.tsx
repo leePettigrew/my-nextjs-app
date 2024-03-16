@@ -15,7 +15,7 @@ export default function Home() {
       <div className="flex items-center justify-center h-screen bg-gradient-to-r from-blue-500 to-teal-500 text-white">
         <div className="text-center">
           <h1 className="text-6xl font-bold">
-            Welcome to Lee Pettigrew's simple application to showcase a code Pipeline
+            Welcome to Lee Pettigrew&apos;s simple application to showcase a code Pipeline
           </h1>
           <p className="mt-4 text-xl">
             Uses Next.js and Tailwind CSS. Currently not the most impressive app, but it works for this demonstration.
