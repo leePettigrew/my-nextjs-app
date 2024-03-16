@@ -18,7 +18,7 @@ export default function Home() {
             Welcome to Lee Pettigrew&apos;s simple application to showcase a code Pipeline
           </h1>
           <p className="mt-4 text-xl">
-            Uses Next.js and Tailwind CSS. Currently not the most impressive app, but it works for this demonstration.
+            Uses Next.js and Tailwind CSS. Currently the best app ever made, but it works for this demonstration.
           </p>
         </div>
       </div>
