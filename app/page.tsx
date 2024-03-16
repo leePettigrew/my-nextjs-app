@@ -32,7 +32,7 @@ export default function Home() {
             <div className="p-6 border rounded-lg">
               <h3 className="text-2xl font-bold mb-3">Imagine something good here</h3>
               <p className="text-gray-600">
-                This is where I would talk about how good the things are.
+                This is where I would talk about how good the things are not.
               </p>
             </div>
           </div>
